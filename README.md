@@ -1,4 +1,4 @@
-### The First Swap protocol developed to provide liquidity to BRC-20&LTC-20&ORC-20&DRC-20 ecosystem
+### The First Swap protocol developed to provide liquidity to BRC-20 & LTC-20 & ORC-20 & DRC-20 ecosystem
 
 <!--
 **BikrSwap/Bikrswap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
